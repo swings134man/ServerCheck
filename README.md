@@ -11,6 +11,7 @@ ServerCheck is a lightweight macOS menu bar app for checking Linux server health
 
 It is made for personal servers, home servers, small cloud instances, and Docker hosts where a full monitoring stack would be too much. ServerCheck does not require a server-side agent. It connects over SSH, runs predefined read-only commands, and shows the result in the macOS menu bar.
 
+[Official Website](https://https://servercheck.lucas-kang.com/)
 --- 
 
 ## Features
@@ -158,6 +159,7 @@ Currently, the rights belong to `swings134man`
 # ServerCheck 한국어
 
 ---
+[Official Website](https://https://servercheck.lucas-kang.com/) <br/>
 
 ServerCheck는 SSH를 통해 Linux 서버 상태를 확인하는 경량 macOS 메뉴바 앱입니다.
 
